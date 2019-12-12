@@ -2,6 +2,12 @@
 
 Nessa POC eu estou baixando arquivos de um bucket do AWS s3, zipando e retornando o zip para download.
 
+## Técnologias utilizadas
+
+-  AWS S3
+- :computer: Asp.net Core
+- :whale: Docker / Docker-compose
+
 ## Como rodar o projeto
 
 
@@ -21,8 +27,3 @@ Nessa POC eu estou baixando arquivos de um bucket do AWS s3, zipando e retornand
 docker-compose up 
 ```
 
-## Técnologias utilizadas
-
--  AWS S3
-- :computer: Asp.net Core
-- :whale: Docker /Docker-compose
