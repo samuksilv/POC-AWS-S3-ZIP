@@ -27,3 +27,4 @@ Nessa POC eu estou baixando arquivos de um bucket do AWS s3, zipando e retornand
 docker-compose up 
 ```
 
+- Após isso a api estará acessível através da porta 5001.
