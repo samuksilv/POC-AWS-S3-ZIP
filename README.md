@@ -24,6 +24,6 @@ Nessa poc eu estou baixando arquivos de um bucket do s3, zipando e retornando o 
 
 ## Técnologias usadas
 
-- :aws: AWS S3
-- :csharp: :dotnet: Asp.net Core
+-  AWS S3
+-  Asp.net Core
 - :whale: Docker /Docker-compose
