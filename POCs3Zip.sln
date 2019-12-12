@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POCs3Zip", "POCs3Zip\POCs3Zip.csproj", "{2B92BF7C-D89D-465A-8D6A-B02EB38CCB68}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CD45F515-576C-435B-9601-C7264370A985}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B92BF7C-D89D-465A-8D6A-B02EB38CCB68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B92BF7C-D89D-465A-8D6A-B02EB38CCB68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B92BF7C-D89D-465A-8D6A-B02EB38CCB68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B92BF7C-D89D-465A-8D6A-B02EB38CCB68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA3CA946-BC81-4FD2-9F43-F6168E62ADD8}
+	EndGlobalSection
+EndGlobal
