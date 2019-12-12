@@ -1,9 +1,6 @@
 # POC sobre download de arquivos e zip de arquivos de um bucket do aws S3
 
-
-## Objetivo da POC
-
-Nessa poc eu estou baixando arquivos de um bucket do s3, zipando e retornando o zip para download.
+Nessa POC eu estou baixando arquivos de um bucket do s3, zipando e retornando o zip para download.
 
 ## Como rodar o projeto
 
