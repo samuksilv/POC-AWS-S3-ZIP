@@ -21,7 +21,7 @@ Nessa POC eu estou baixando arquivos de um bucket do AWS s3, zipando e retornand
 |AWS_BUCKET_NAME |Nome do Bucket no S3  | 
 
 
- - Após criar o arquico com as váriaveis de ambeite basta ter o docker instalado e rodar o seguinte comando no seu terminal:
+ - Após criar o arquivo com as váriaveis de ambeite basta ter o docker instalado e rodar o seguinte comando no seu terminal:
 
 ```
 docker-compose up 
