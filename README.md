@@ -20,7 +20,9 @@ Nessa poc eu estou baixando arquivos de um bucket do s3, zipando e retornando o 
 
  - Após criar o arquico com as váriaveis de ambeite basta ter o docker instalado e rodar o seguinte comando no seu terminal:
 
-``` docker-compose up ```
+```
+docker-compose up 
+```
 
 ## Técnologias usadas
 
