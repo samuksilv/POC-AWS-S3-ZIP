@@ -21,7 +21,7 @@ Nessa POC eu estou baixando arquivos de um bucket do AWS s3, zipando e retornand
 docker-compose up 
 ```
 
-## Técnologias usadas
+## Técnologias utilizadas
 
 -  AWS S3
 - :computer: Asp.net Core
