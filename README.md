@@ -8,8 +8,8 @@ Nessa poc eu estou baixando arquivos de um bucket do s3, zipando e retornando o 
 ## Como rodar o projeto
 
 
-- Para rodar o projeto, crie um arquivo ".env" baseando se no arquivo "example.env" no diretório principal, mesmo nível do arquivo "docker-compose.yml". Nesse arquivo .env são salvas as configurações do S3, bem como informações importantes para acessar-lo, como se trata de informações sigilosas eu gerencio essas informações com váriaveis de ambiente no projeto.
-    - Váriaveis de ambientes:
+- Para rodar o projeto, crie um arquivo ".env" baseando se no arquivo "example.env" no diretório principal, no mesmo nível do arquivo "docker-compose.yml". Nesse arquivo .env são salvas as configurações do S3, bem como informações importantes para acessar-lo, como se trata de informações sigilosas eu gerencio essas informações com váriaveis de ambiente no projeto.
+    - Descrição das váriaveis de ambientes:
 
 |  Várivel       | Descrição            | 
 |---             |---                   |
